@@ -7,7 +7,7 @@
    
   </head>
   <body>
-  <img src="https://www.google.com/search?q=android&sxsrf=ALeKk001vaqPN6NSsn-RXBOZpp_gdf1peA:1595862609962&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiBlei_2-3qAhVLT30KHZomAVUQ_AUoA3oECB0QBQ&biw=1920&bih=981#imgrc=i1B604txOk9BvM">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.android.com%2F&psig=AOvVaw3L8zJxz3BsXA0oRpKc3ppo&ust=1595949022811000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDExsnb7eoCFQAAAAAdAAAAABAK">
     <h1>Hello, world!</h1>
 
   </body>
