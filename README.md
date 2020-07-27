@@ -7,7 +7,7 @@
    
   </head>
   <body>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.android.com%2F&psig=AOvVaw3L8zJxz3BsXA0oRpKc3ppo&ust=1595949022811000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDExsnb7eoCFQAAAAAdAAAAABAK">
+  <center><img src="https://source.unsplash.com/1600x900/?android,mobile">>/center>
     <h1>Hello, world!</h1>
 
   </body>
