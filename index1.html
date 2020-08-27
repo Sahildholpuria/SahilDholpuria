@@ -24,63 +24,71 @@
 <body>
 
 
-  <div class="album py-5">
-    <div class="container">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="https://sahildholpuria.tech">Home</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="./blog.html">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-toggle="modal" data-target="#myModal" href="">Contact us</a>
+            </li>
+        </ul>
+    </div>
+</nav>
 
-      <div class="row">
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Sahil Dholpuria</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Sahil Dholpuria</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Follow</button>
-                </div>
-                
-              </div>
-            </div>
+<!-- 
+   -->
+
+  
+  <div class="container">
+  
+  
+    <!-- The Modal -->
+    <div class="modal" id="myModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+  
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">Contact Us</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
-        </div>
-
-
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Pradhumn Sharma</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Pradhumn Sharma</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Follow</button>
-                </div>
-                
+  
+          <!-- Modal body -->
+          <div class="jumbotron">
+            <form action="/action_page.php">
+              <div class="form-group">
+                <label for="email">Email address:</label>
+                <input type="email" class="form-control" placeholder="Enter email" id="email">
               </div>
-            </div>
-          </div>
-        </div>
-
-
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Shivam Sharma</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Shivam Sharma</text></svg>
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Follow</button>
-                  
-                </div>
-                
+              <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" class="form-control" placeholder="Enter Name" id="name">
               </div>
-            </div>
+              <div class="form-group">
+                <label for="comment">Message:</label>
+                <textarea class="form-control" rows="5" id="comment"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Send</button>
+            </form>
           </div>
+  
+          <!-- Modal footer -->
+  
+  
         </div>
-
-        
       </div>
     </div>
+  
   </div>
-
 
 
 
