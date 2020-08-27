@@ -29,6 +29,14 @@
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:sahildholpuria@outlook.com.com">sahildholpuria@outlook.com</a>;</li>
 </ul>
 
+<div class="float-none rounded-circle">
+            <a href="https://twitter.com/sahildholpuria1"> <img src="./image/png/twitter.png" width="32" height="32" alt=""></a>
+            <a href="https://www.instagram.com/sahildholpuria/"> <img src="./image/png/instagram.png" width="32" height="32" alt=""></a>
+            <a href="https://www.facebook.com/sahildholpuria1998/"> <img src="./image/png/facebook.png" width="32" height="32" alt=""></a>
+            <a href="https://github.com/Sahildholpuria"> <img src="./image/png/github.png" width="32" height="32" alt=""></a>
+
+        </div>
+
 
   </body>
 </html>
