@@ -35,7 +35,7 @@
             <a href="https://www.facebook.com/sahildholpuria1998/"> <img src="./image/png/facebook.png" width="32" height="32" alt=""></a>
             <a href="https://github.com/Sahildholpuria"> <img src="./image/png/github.png" width="32" height="32" alt=""></a>
 
-        </div>
+  </div>
 
 
   </body>
