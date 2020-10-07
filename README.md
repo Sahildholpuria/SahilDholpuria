@@ -28,6 +28,8 @@
 <a href="mailto:dholpuria1999@gmail.com" rel="nofollow">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
   </a>
+  
+  [![Shivam Sharma's github stats](https://github-readme-stats.vercel.app/api?username=Sahildholpuria&show_icons=true&theme=radical)](https://github.com/ShivamSharmaDevloper/ShivamSharmaDevloper)
 
 
 
