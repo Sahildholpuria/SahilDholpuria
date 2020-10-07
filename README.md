@@ -29,7 +29,7 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
   </a>
   
-  [![Shivam Sharma's github stats](https://github-readme-stats.vercel.app/api?username=Sahildholpuria&show_icons=true&theme=radical)](https://github.com/ShivamSharmaDevloper/ShivamSharmaDevloper)
+  
 
 
 
@@ -44,6 +44,8 @@
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Fun-Fact: Anything is possible;</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:sahildholpuria@outlook.com.com">sahildholpuria@outlook.com</a>;</li>
 </ul>
+
+[![Sahil Dholpuria's github stats](https://github-readme-stats.vercel.app/api?username=Sahildholpuria&show_icons=true&theme=radical)](https://github.com/Sahildholpuria/SahilDholpuria)
 
 
 
