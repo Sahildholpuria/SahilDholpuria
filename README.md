@@ -28,6 +28,16 @@
 <a href="mailto:dholpuria1999@gmail.com" rel="nofollow">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" style="max-width:100%;">
   </a>
+<a href="https://www.youtube.com/channel/UCNg-dM3Ynge55bwOWT2daoQ" rel="youtube">
+    <img align="left" alt="Learn Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
+  </a>
+<a href="https://www.youtube.com/channel/UC6ZwumwdK5WpPOUKaZu42BA" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" style="max-width:100%;">
+  </a>
+<a href="https://dev.to/sahildholpuria" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" style="max-width:100%;">
+  </a>
+ 
   
   
 
