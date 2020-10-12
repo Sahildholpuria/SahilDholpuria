@@ -37,6 +37,9 @@
 <a href="https://dev.to/sahildholpuria" rel="youtube">
     <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dev-dot-to.svg" style="max-width:100%;">
   </a>
+<a href="https://medium.com/@sahildholpuria" rel="youtube">
+    <img align="left" alt="Sahil Dholpuria" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" style="max-width:100%;">
+  </a>
  
   
   
