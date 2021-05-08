@@ -8,6 +8,23 @@ body{
     
 
 }
+.nav{
+  display: block;
+  text-align: center;
+
+}
+.navbar:hover{
+  color: #fff;
+}
+
+.navbar {
+  text-decoration: none;
+  padding: 2%;
+  font-size: larger;
+  font-family: 'Zen Dots', cursive;
+  color: rgb(0, 0, 0);
+}
+
 .container{
     display: block;
     margin: 5%;
@@ -32,6 +49,9 @@ p{
     border: #000000 solid;
     border-radius: 50%;
 }
+/* h1:hover{
+  color: #fff;
+} */
 
 
 
