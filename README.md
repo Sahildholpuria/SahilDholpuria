@@ -58,8 +58,8 @@
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:sahildholpuria@outlook.com.com">sahildholpuria@outlook.com</a>;</li>
 </ul>
 
-//[![Sahil Dholpuria's github stats](https://github-readme-
-//stats.vercel.app/api?//username=Sahildholpuria&show_icons=true&theme=graywhite)]//(https://github.com/Sahildholpuria/SahilDholpuria)
+<!--[![Sahil Dholpuria's github stats](https://github-readme-
+stats.vercel.app/api?//username=Sahildholpuria&show_icons=true&theme=graywhite)](https://github.com/Sahildholpuria/SahilDholpuria)-->
 
 
 
