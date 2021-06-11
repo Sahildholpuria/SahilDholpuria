@@ -21,23 +21,8 @@
     <link rel="stylesheet" href="style.css" />
   </head>
 
-  <body onload="myFunction()">
-    <div id="loader">
-      <lottie-player
-        src="https://assets2.lottiefiles.com/packages/lf20_dXaGKl.json"
-        background="transparent"
-        speed="1"
-        style="
-          width: 300px;
-          height: 300px;
-          position: absolute;
-          left: 40%;
-          top: 35%;
-        "
-        loop
-        autoplay
-      ></lottie-player>
-    </div>
+  <body>
+    
 
     <div id="myDiv">
       <div class="nav">
@@ -106,22 +91,5 @@
       data-x_margin="18"
       data-y_margin="18"
     ></script>
-
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-    <script>
-      var myVar;
-
-      function myFunction() {
-        document.getElementById("myDiv").style.display = "none";
-
-        myVar = setTimeout(showPage, 2000);
-      }
-
-      function showPage() {
-        document.getElementById("loader").style.display = "none";
-        document.getElementById("myDiv").style.display = "block";
-      }
-    </script>
   </body>
 </html>
